@@ -143,7 +143,7 @@ export const botConfig = {
       // Default footer text used in bot embeds.
       text: "Blush Bot",
       // Footer icon URL (null = no icon).
-      icon: null,
+      icon: https://cdn.discordapp.com/attachments/1350874855473676288/1527377801504886914/IMG_3697.jpg?ex=6aeec1ad&is=6aed702d&hm=457dcf2078b082667e3b7f5941ee31acf29c5b5de49fe2df9b6e0d855fb0189a&,
     },
     // Default thumbnail URL for embeds (null = no thumbnail).
     thumbnail: null,
