@@ -143,7 +143,7 @@ export const botConfig = {
       // Default footer text used in bot embeds.
       text: "Blush Bot",
       // Footer icon URL (null = no icon).
-      icon: null,
+      icon: "https://raw.githubusercontent.com/zylexx-code/BLUSH.APP/refs/heads/main/IMG_9824.jpeg",
     },
     // Default thumbnail URL for embeds (null = no thumbnail).
     thumbnail: null,
